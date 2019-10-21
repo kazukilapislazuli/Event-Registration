@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Gunslinger';
+    src: url('Gunslinger.woff2') format('woff2'),
+        url('Gunslinger.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'POLAR VORTEX';
+    src: url('POLAR-VORTEX.woff2') format('woff2'),
+        url('POLAR-VORTEX.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CRUSHED';
+    src: url('CRUSHED.woff2') format('woff2'),
+        url('CRUSHED.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Tobin Tax';
+    src: url('TobinTax-Regular.woff2') format('woff2'),
+        url('TobinTax-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
